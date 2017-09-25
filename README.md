@@ -8,7 +8,7 @@
 * 有如下值集合 [11,22,33,44,55,66,77,88,99,90]，将所有大于 66 的值保存至字典的第一个key中，将小于 66 的值保存至第二个key的值中。
 * 即： {'k1': 大于66的所有值, 'k2': 小于66的所有值}
 
- Demo：
+ Demo：[link](https://github.com/mgss/python-demo/blob/master/example/basic/demo1.py)
 
 ## Demo-2
 
@@ -20,7 +20,7 @@ tu = ("alec", "aric", "Alex", "Tony", "rain")
 dic = {'k1': "alex", 'k2': ' aric', "k3": "Alex", "k4": "Tony"}
 ```
 
- Demo：
+ Demo：[link](https://github.com/mgss/python-demo/blob/master/example/basic/demo2.py)
 
 
 ## Demo-3
@@ -31,7 +31,7 @@ dic = {'k1': "alex", 'k2': ' aric', "k3": "Alex", "k4": "Tony"}
 li = ["手机", "电脑", '鼠标垫', '游艇']
 ```
 
- Demo：
+ Demo：[link](https://github.com/mgss/python-demo/blob/master/example/basic/demo3.py)
 
 
 ## Demo-4
@@ -50,7 +50,7 @@ goods = [
 ]
 ```
 
- Demo：
+ Demo：[link](https://github.com/mgss/python-demo/blob/master/example/basic/demo4.py)
 
 
 ## Demo-5
@@ -74,4 +74,4 @@ dic = {
 }
 ```
 
- Demo：
+ Demo：[link](https://github.com/mgss/python-demo/blob/master/example/basic/demo5.py)
