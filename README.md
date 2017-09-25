@@ -1,77 +1,25 @@
-# python-demo
-最适合用来练手的Python小Demo合集
+# Python-demo
+新手用来练手的Python小Demo合集
 
-# Basic 基础练习
+## 目录
 
-## Demo-1
+* [Python基础语法练习](https://github.com/mgss/python-demo/blob/master/doc/basic.md)（5）
+* Python面向对象
+* python网络编程
+* PythonWeb框架
+* 持续更新中...
 
-* 有如下值集合 [11,22,33,44,55,66,77,88,99,90]，将所有大于 66 的值保存至字典的第一个key中，将小于 66 的值保存至第二个key的值中。
-* 即： {'k1': 大于66的所有值, 'k2': 小于66的所有值}
+## 运行Demo
+* 推荐先根据目录中的题目先看一遍需求，自己直接动手做一遍，再运行我的Demo做对比
+* 下载源码 `git clone git@github.com:mgss/python-demo.git`
+* 进入相应目录执行 `python demo1.py`
+* 所有Demo 基于 Python 2.7.11
+* 推荐在Linux或macOS环境下执行
 
- Demo：[link](https://github.com/mgss/python-demo/blob/master/example/basic/demo1.py)
+## 关于项目
 
-## Demo-2
-
-* 查找列表中元素，移除每个元素的空格，并查找以 a或A开头 并且以 c 结尾的所有元素。
-
-```python
-li = ["alec", " aric", "Alex", "Tony", "rain"]
-tu = ("alec", "aric", "Alex", "Tony", "rain")
-dic = {'k1': "alex", 'k2': ' aric', "k3": "Alex", "k4": "Tony"}
-```
-
- Demo：[link](https://github.com/mgss/python-demo/blob/master/example/basic/demo2.py)
-
-
-## Demo-3
-
-* 输出商品列表，用户输入序号，显示用户选中的商品
-
-```python
-li = ["手机", "电脑", '鼠标垫', '游艇']
-```
-
- Demo：[link](https://github.com/mgss/python-demo/blob/master/example/basic/demo3.py)
+* 本项目提供作者学习Python一路以来练习过的Demo，并在持续发布中...
+* 觉得还可以的朋友欢迎star，认为有更好的练习Demo欢迎[issues](https://github.com/mgss/python-demo/issues)
+* 作者博客：[ylzzxt.cn](https://ylzzxt.cn/)
 
 
-## Demo-4
-
-* 要求用户输入总资产，例如：2000
-* 显示商品列表，让用户根据序号选择商品，加入购物车
-* 购买，如果商品总额大于总资产，提示账户余额不足，否则，购买成功。
-* 附加：可充值、某商品移除购物车
-
-```python
-goods = [
-    {"name": "电脑", "price": 1999},
-    {"name": "鼠标", "price": 10},
-    {"name": "游艇", "price": 20},
-    {"name": "美女", "price": 998},
-]
-```
-
- Demo：[link](https://github.com/mgss/python-demo/blob/master/example/basic/demo4.py)
-
-
-## Demo-5
-
-* 用户交互，显示省市县三级联动的选择
-
-```python
-dic = {
-    "河北": {
-        "石家庄": ["鹿泉", "藁城", "元氏"],
-        "邯郸": ["永年", "涉县", "磁县"],
-    },
-    "河南": {
-        "石家庄2": ["鹿泉2", "藁城2", "元氏2"],
-        "邯郸2": ["永年2", "涉县2", "磁县2"],
-    },
-    "山西": {
-        "石家庄3": ["鹿泉3", "藁城3", "元氏3"],
-        "邯郸3": ["永年3", "涉县3", "磁县3"],
-    }
-}
-```
-
- Demo：[link](https://github.com/mgss/python-demo/blob/master/example/basic/demo5.py)
