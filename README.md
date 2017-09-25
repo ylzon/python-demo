@@ -3,7 +3,7 @@
 
 ## 目录
 
-* [Python基础语法练习](https://github.com/mgss/python-demo/blob/master/doc/basic.md)（5）
+* [Python基础语法练习](https://github.com/mgss/python-demo/blob/master/docs/basic.md)（5）
 * Python面向对象
 * python网络编程
 * PythonWeb框架
