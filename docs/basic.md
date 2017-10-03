@@ -121,4 +121,16 @@ new_dict = {
 * 写函数，检查用户传入的对象（字符串、列表、元组）的每一个元素是否含有空内容。
 
 
- 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo9.py)
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo10.py)
+
+ ## Demo-11
+
+* 写函数，检查传入列表的长度，如果大于2，那么仅保留前两个长度的内容，并将新内容返回给调用者。
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo11.py)
+
+ ## Demo-12
+
+* 写函数，检查获取传入列表或元组对象的所有奇数位索引对应的元素，并将其作为新列表返回给调用者。
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo12.py)
