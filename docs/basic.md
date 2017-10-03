@@ -107,4 +107,11 @@ new_dict = {
 * 写函数，计算传入字符串中【数字】、【字母】、【空格] 以及 【其他】的个数
 
 
- 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo8.py)
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/exampl
+
+ ## Demo-9
+
+* 写函数，判断用户传入的对象（字符串、列表、元组）长度是否大于5
+
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo9.py)
