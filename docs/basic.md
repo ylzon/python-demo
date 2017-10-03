@@ -72,3 +72,25 @@ dic = {
 ```
 
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo5.py)
+
+ ## Demo-6
+
+* 在old中，删除old中存在，new中不存在的
+* 在old中，新建new中存在，old中不存在的
+* 在old中，更新两个中都存在的
+
+```python
+old_dict = {
+    "#1": 11,
+    "#2": 22,
+    "#3": 33
+}
+
+new_dict = {
+    "#1": 11,
+    "#3": 44,
+    "#4": 100
+}
+```
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo6.py)
