@@ -107,7 +107,7 @@ new_dict = {
 * 写函数，计算传入字符串中【数字】、【字母】、【空格] 以及 【其他】的个数
 
 
- 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/exampl
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo8.py)
 
  ## Demo-9
 
@@ -134,3 +134,16 @@ new_dict = {
 * 写函数，检查获取传入列表或元组对象的所有奇数位索引对应的元素，并将其作为新列表返回给调用者。
 
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo12.py)
+
+ ## Demo-13
+
+* 写函数，检查传入字典的每一个value的长度,如果大于2，那么仅保留前两个长度的内容，并将新内容返回给调用者。
+
+```python
+dic = {"k1": "v1v1", "k2": [11,22,33,44]}
+PS:字典中的value只能是字符串或列表
+```
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo13.py)
+
+
