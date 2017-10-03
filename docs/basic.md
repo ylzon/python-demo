@@ -115,3 +115,10 @@ new_dict = {
 
 
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo9.py)
+
+ ## Demo-10
+
+* 写函数，检查用户传入的对象（字符串、列表、元组）的每一个元素是否含有空内容。
+
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo9.py)
