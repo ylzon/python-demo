@@ -101,3 +101,10 @@ new_dict = {
 
 
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo7.py)
+
+ ## Demo-8
+
+* 写函数，计算传入字符串中【数字】、【字母】、【空格] 以及 【其他】的个数
+
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo8.py)
