@@ -94,3 +94,10 @@ new_dict = {
 ```
 
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo6.py)
+
+ ## Demo-7
+
+* 简述普通参数、指定参数、默认参数、动态参数的区别?
+
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo7.py)
