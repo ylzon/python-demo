@@ -147,3 +147,8 @@ PS:字典中的value只能是字符串或列表
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo13.py)
 
 
+ ## Demo-14
+
+ * 随机产生四位字母或数字组成的验证码
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo14.py)
