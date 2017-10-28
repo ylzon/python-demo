@@ -152,3 +152,9 @@ PS:字典中的value只能是字符串或列表
  * 随机产生四位字母或数字组成的验证码
 
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo14.py)
+
+ ## Demo-15
+
+ * 命令行实现用户登录、注册操作，并以文本文件保存用户名密码数据
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo15/user.py)
