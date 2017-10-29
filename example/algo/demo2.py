@@ -6,8 +6,8 @@
 def recu(a1, a2, arr):
     """
     计算斐波那契数列
-    :param a1: 第一个值
-    :param a2: 第二个值
+    :param a1: 第n个值
+    :param a2: 第n+1个值
     :param arr: 保存斐波那契数列的数组
     :return: 大于100000则返回False
     """
