@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
+<<<<<<< HEAD
 # 装饰器函数
 import time
 
@@ -54,3 +55,37 @@ def home(*args, **kwargs):
 
 i = home(1, 2)
 print("最后返回结果:", i)
+=======
+
+
+# 多层装饰器
+def outer_fist(func):
+    def inner(*args, **kwargs):
+        print("第一层开始")
+        ret = func(*args, **kwargs)
+        print("第一层结束")
+        return ret
+
+    return inner
+
+
+def outer(func):
+    def inner(*args, **kwargs):
+        print("开始")
+        ret = func(*args, **kwargs)
+        print("结束")
+        return ret
+
+    return inner
+
+
+@outer_fist
+@outer
+def main(a1, a2):
+    print("内容")
+    return a1 + a2
+
+
+ret = main(1, 2)
+print(ret)
+>>>>>>> origin/master
