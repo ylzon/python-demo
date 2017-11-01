@@ -157,7 +157,6 @@ PS:字典中的value只能是字符串或列表
 
  * 命令行实现用户登录、注册操作，并以文本文件保存用户名密码数据
 
-<<<<<<< HEAD
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo15/user.py)
 
  ## Demo-16
@@ -165,6 +164,3 @@ PS:字典中的value只能是字符串或列表
  * 实现多层装饰器及任意传参
 
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo16.py)
-=======
- 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo15/user.py)
->>>>>>> origin/master
