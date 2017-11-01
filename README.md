@@ -4,7 +4,7 @@
 ## 目录
 
 
-* [Python基础语法练习](https://github.com/mgss/python-demo/blob/master/docs/basic.md) (16)
+* [Python基础语法练习](https://github.com/mgss/python-demo/blob/master/docs/basic.md) (17)
 * [Python基本算法练习](https://github.com/mgss/python-demo/blob/master/docs/algo.md) (2)
 * Python面向对象
 * python网络编程

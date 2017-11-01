@@ -164,3 +164,9 @@ PS:字典中的value只能是字符串或列表
  * 实现多层装饰器及任意传参
 
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo16.py)
+
+ ## Demo-17
+
+ * 利用生成器实现并行效果
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo17.py)
