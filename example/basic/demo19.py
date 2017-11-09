@@ -11,7 +11,7 @@ for i in range(101):
     sys.stdout.write("\r")
 
     # 显示百分比和进度条
-    sys.stdout.write("[%s%%|%s%s]" % (i, i * ('█'), (100 - i) * ('░')))
+    sys.stdout.write("[%s%%|%-100s]" % (i, i * ('█')))
 
     # 从缓存刷入到屏幕
     sys.stdout.flush()

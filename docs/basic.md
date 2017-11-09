@@ -182,3 +182,9 @@ PS:字典中的value只能是字符串或列表
  * 实现命令行进度条，带百分比
 
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo19.py)
+
+ ## Demo-20
+
+ * 利用第三方接口实现输入QQ号判断是否在线
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo20.py)
