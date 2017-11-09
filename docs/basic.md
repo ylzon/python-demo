@@ -176,3 +176,9 @@ PS:字典中的value只能是字符串或列表
  * 正则判断输入的邮箱是否合法
 
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo18.py)
+
+ ## Demo-19
+
+ * 实现命令行进度条，带百分比
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo19.py)
