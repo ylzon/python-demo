@@ -8,6 +8,11 @@ from xml.etree import ElementTree as ET
 
 
 def is_online(qq_num):
+    """
+    调用第三方接口，查询qq号码是否在线
+    :param qq_num: QQ号码，String
+    :return: node.text String
+    """
     data = requests.get("http://www.webxml.com.cn/webservices/qqOnlineWebService.asmx/qqCheckOnline?qqcode=%s" % qq_num)
     result = data.text
     node = ET.XML(result)
@@ -16,6 +21,10 @@ def is_online(qq_num):
 
 
 def main():
+    """
+    主函数
+    :return: None
+    """
     inp = input("请输入要查询的QQ号：")
     result = is_online(inp)
     if result == "Y":

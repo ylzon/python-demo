@@ -185,6 +185,6 @@ PS:字典中的value只能是字符串或列表
 
  ## Demo-20
 
- * 利用第三方接口实现输入QQ号判断是否在线
+ * 利用第三方接口和第三方模块实现输入QQ号判断是否在线
 
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo20.py)
