@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-# 利用生成器实现并行效果
+"""
+利用生成器实现并行效果
+"""
 
 import time
 

@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-# 利用第三方接口实现输入QQ号判断是否在线
+"""
+利用第三方接口实现输入QQ号判断是否在线
+"""
 
 import requests
 from xml.etree import ElementTree as ET

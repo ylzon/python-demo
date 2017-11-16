@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-
-# 装饰器函数
+"""
+装饰器函数
+"""
 
 import time
 

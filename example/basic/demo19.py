@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-# 实现命令行进度条，带百分比
+"""
+实现命令行进度条，带百分比
+"""
 
 import sys
 import time
