@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
-# 随机产生验证码
+"""
+随机产生验证码
+"""
 
 import random
 
