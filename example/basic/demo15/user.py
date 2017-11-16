@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-
+"""
 # 实现用户登录、注册操作，并以文本文件保存用户名密码数据
-
+"""
 
 def login(username, password):
     """
