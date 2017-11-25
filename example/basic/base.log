@@ -1,0 +1,12 @@
+[17]2017-11-16 14:58:47 - root - DEBUG    - demo22 : debug
+[18]2017-11-16 14:58:47 - root - INFO     - demo22 : info
+[19]2017-11-16 14:58:47 - root - WARNING  - demo22 : warning
+[20]2017-11-16 14:58:47 - root - ERROR    - demo22 : error
+[21]2017-11-16 14:58:47 - root - CRITICAL - demo22 : critical
+[22]2017-11-16 14:58:47 - root - DEBUG    - demo22 : log
+[17]2017-11-16 14:59:44 - /Users/evanbell/GitHub/python-demo/example/basic/demo22.py - DEBUG    - demo22 : debug
+[18]2017-11-16 14:59:44 - /Users/evanbell/GitHub/python-demo/example/basic/demo22.py - INFO     - demo22 : info
+[19]2017-11-16 14:59:44 - /Users/evanbell/GitHub/python-demo/example/basic/demo22.py - WARNING  - demo22 : warning
+[20]2017-11-16 14:59:44 - /Users/evanbell/GitHub/python-demo/example/basic/demo22.py - ERROR    - demo22 : error
+[21]2017-11-16 14:59:44 - /Users/evanbell/GitHub/python-demo/example/basic/demo22.py - CRITICAL - demo22 : critical
+[22]2017-11-16 14:59:44 - /Users/evanbell/GitHub/python-demo/example/basic/demo22.py - DEBUG    - demo22 : log
