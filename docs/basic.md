@@ -194,3 +194,15 @@ PS:字典中的value只能是字符串或列表
  * 实现配置文件的增删改查
 
  参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo21.py)
+
+ ## Demo-22
+
+ * python日志模块
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo22.py)
+
+ ## Demo-23
+
+ * 基于反射实现简单路由模块函数功能
+
+ 参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/basic/demo23.py)
