@@ -6,7 +6,7 @@
 
 * [Python基础语法练习](https://github.com/mgss/python-demo/blob/master/docs/basic.md) (23)
 * [Python基本算法练习](https://github.com/mgss/python-demo/blob/master/docs/algo.md) (2)
-* Python面向对象
+* [Python面向对象](https://github.com/mgss/python-demo/blob/master/docs/oop.md) (1)
 * python网络编程
 * PythonWeb框架
 * 持续更新中...
