@@ -10,7 +10,7 @@ import socket
 sk = socket.socket()
 
 # 建立访问
-sk.connect(("127.0.0.1", 6666,))
+sk.connect(("127.0.0.1", 8989,))
 
 # 结束访问
 

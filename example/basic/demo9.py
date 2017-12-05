@@ -22,3 +22,5 @@ obj3 = ('a', 'b', 'c')
 is_length(obj1)
 is_length(obj2)
 is_length(obj3)
+
+
