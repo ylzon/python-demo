@@ -19,6 +19,6 @@
 ## 关于项目
 
 * 本项目是个人学习Python一路以来练习过的Demo，并在持续更新中...
-* 个人博客：[ylzzxt.cn](https://ylzzxt.cn/)
+* 个人博客：[ylzon.com](https://ylzon.com/)
 
 
