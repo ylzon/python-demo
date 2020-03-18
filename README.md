@@ -12,7 +12,7 @@
 * 持续更新中...
 
 ## 运行Demo
-* 下载源码 `git clone git@github.com:mgss/python-demo.git`
+* 下载源码 `git clone git@github.com:ylzon/python-demo.git`
 * 进入相应目录执行 `python demo.py`
 * 所有Demo 基于 Python 3.6
 
