@@ -26,3 +26,11 @@ Clinet端参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/e
 Server端参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/socket/demo3/server.py)
 
 Clinet端参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/socket/demo3/client.py)
+
+## Demo-4
+
+* 是先利用request + BeautifulSoup 模块批量爬取内容
+* 实现批量获取书名对应的豆瓣评分
+
+参考Demo：[链接](https://github.com/mgss/python-demo/blob/master/example/socket/demo4/douban_books.py)
+
